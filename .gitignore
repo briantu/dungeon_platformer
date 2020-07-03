@@ -1,0 +1,6 @@
+*.dll
+Debug/
+x64/
+SDL_Game.vcxproj
+SDL_Game.vcxproj.filters
+SDL_Game.vcxproj.user
